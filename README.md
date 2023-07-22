@@ -1,2 +1,2 @@
 # Balta.Io
-Repositório destinado a conter exercícios e projetos do tá plataforma balta.io. 
+Repositório destinado a conter exercícios e projetos do plataforma balta.io. 
