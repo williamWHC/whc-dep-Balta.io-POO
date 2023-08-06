@@ -2,9 +2,9 @@
 
 internal class Program
 {
-    private static void Main(string[] args)
+    private static void Main()
     {
-        var room = new Room();
+        var room = new Room(3);
         room.RoomSoldOutEvent += OnRoomSoldOut;
 
         room.ReserveSeat();
