@@ -7,9 +7,10 @@ namespace M01A22_Events
         private int seatsInUse = 0;
         ObjectResponse? objectResponse;
 
-        public Room(3)
+        public Room(int seats)
         {
-            objectResponse = new ObjectResponse();
+            Seats = seats;
+            seatsInUse = 0;
         }
 
         public int NumberRoom { get; set; }
@@ -26,12 +27,12 @@ namespace M01A22_Events
             {
                 //Evento Dispara email de comunicação.
                 OnRoomSoldOut(EventArgs.Empty);
-                objectResponse.Messagem = "Capacidade dos assentos atingido. ";
+                Console.WriteLine("Capacidade dos assentos atingido.");
             }
             else
             {
                 //Evento => Email de comunicação 
-                objectResponse.Messagem = "Reservado com sucesso!";
+                Console.WriteLine("Reservado com sucesso!");
             }
 
         }
@@ -41,7 +42,7 @@ namespace M01A22_Events
 
         public virtual void OnRoomSoldOut(EventArgs e)
         {
-            EventHandler handler = RoomSoldOutEvent;
+            EventHandler? handler = RoomSoldOutEvent;
             handler?.Invoke(this, e);
         }
 
