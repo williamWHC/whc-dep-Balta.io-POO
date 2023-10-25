@@ -1,9 +1,8 @@
 <p align="center">
-  <img width="500" height="140" alt="CacheLib" src="whc-dep-Balta.io-POO/website/img/Balta.png">
+  <img width="500" height="140" alt="Balta.IO" src="https://baltaio.blob.core.windows.net/static/images/dark/balta-logo.svg">
 </p>
 
-# Curso Balta.Io - Fundamentos da orientação a Objetos.
-<h1 align="center"> Seu título aqui </h1>
+<h1 align="center"> Curso Balta.Io - Fundamentos da orientação a Objetos. </h1>
 
 Repositório destinado a conter exercícios e projetos do plataforma balta.io. 
 
