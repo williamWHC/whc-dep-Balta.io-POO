@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="140" alt="CacheLib" src="/whc-dep-Balta.io-POO/website/img/Balta.png">
+  <img width="500" height="140" alt="CacheLib" src="whc-dep-Balta.io-POO/website/img/Balta.png">
 </p>
 
 # Curso Balta.Io - Fundamentos da orientação a Objetos.
