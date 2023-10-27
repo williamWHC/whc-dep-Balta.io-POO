@@ -4,6 +4,10 @@
 
 ##
 
+## Descrição do Projeto
+https://img.shields.io/badge/Vers%C3%A3o-.Net7-blue
+
+
 <p align="center">
   <img width="500" height="140" alt="Balta.IO" src="https://baltaio.blob.core.windows.net/static/images/dark/balta-logo.svg">
 </p>
@@ -247,9 +251,3 @@ Regra do delegetes, é preciso de a mesma assinatura dos metodos.
 
 | [<img src="https://avatars.githubusercontent.com/u/43853142?v=4" width=115><br><sub>William henrique cirino</sub>](https://github.com/williamWHC)
 | :---:
-
-## Versão
-![Badge em Desenvolvimento](https://img.shields.io/badge/Vers%C3%A3o-.Net7-blue)
-
-![GitHub Org's stars](https://img.shields.io/github/stars/williamWHC?style=social)
-
