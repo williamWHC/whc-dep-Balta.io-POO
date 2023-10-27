@@ -241,3 +241,9 @@ Regra do delegetes, é preciso de a mesma assinatura dos metodos.
 
 | [<img src="https://avatars.githubusercontent.com/u/43853142?v=4" width=115><br><sub>William henrique cirino</sub>](https://github.com/williamWHC)
 | :---:
+
+## Versão
+![Badge em Desenvolvimento](https://img.shields.io/badge/Vers%C3%A3o-.Net7-blue)
+
+![GitHub Org's stars](https://img.shields.io/github/stars/williamWHC?style=social)
+
