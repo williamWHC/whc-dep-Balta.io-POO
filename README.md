@@ -1,4 +1,10 @@
 <p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+</p>
+
+##
+
+<p align="center">
   <img width="500" height="140" alt="Balta.IO" src="https://baltaio.blob.core.windows.net/static/images/dark/balta-logo.svg">
 </p>
 
