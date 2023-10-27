@@ -4,15 +4,22 @@
 
 ##
 
-## Descrição do Projeto
-https://img.shields.io/badge/Vers%C3%A3o-.Net7-blue
+<h2 align="center"> Descrição do Projeto </h2>
 
+<p align="center">
+	<img src="https://img.shields.io/badge/Vers%C3%A3o-.Net7-blue">
+	<img src="https://img.shields.io/github/stars/williamWHC?style=social">
+</p>
+
+Nesse repositório contém alguns algoritimos e práticas de desenvolvimento aprendido na plataforma de ensino do [Balta.IO](https://balta.io)
 
 <p align="center">
   <img width="500" height="140" alt="Balta.IO" src="https://baltaio.blob.core.windows.net/static/images/dark/balta-logo.svg">
 </p>
 
 <h1 align="center"> Curso Balta.Io - Fundamentos da orientação a Objetos. </h1>
+
+<br>
 
 Repositório destinado a conter exercícios e projetos do plataforma balta.io. 
 
