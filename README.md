@@ -235,4 +235,9 @@ Regra do delegetes, é preciso de a mesma assinatura dos metodos.
 
 ---
 
-M01A22 -
+
+
+## Desenvolvedores
+
+| [<img src="https://avatars.githubusercontent.com/u/43853142?v=4" width=115><br><sub>William henrique cirino</sub>](https://github.com/williamWHC)
+| :---:
